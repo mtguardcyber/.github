@@ -1,6 +1,6 @@
 ## Montana Army National Guard Cyber
 
-repo for the Montana cyber team. check out our [website!}(https://mtguardcyber.org)
+repo for the Montana cyber team. check out our [website!](https://mtguardcyber.org)
 
 <!--
 
